@@ -1,6 +1,6 @@
 # 🚀 Projet de Data Mining : Analyse de l'Insertion des Diplômés de Master
 
-**Projet réalisé dans le cadre du module "Data Management, Data Visualisation & Text Mining" de l'EPSI Rennes.**
+**Projet réalisé dans le cadre du module "Data Management, Data Visualisation & Text Mining" Sorbonne.**
 
 Ce projet vise à analyser en profondeur les dynamiques d'insertion professionnelle des titulaires de Master en France, en transformant des données brutes en un outil d'aide à la décision interactif.
 
@@ -48,8 +48,8 @@ Notre travail a rigoureusement suivi la méthodologie **CRISP-DM (Cross-Industry
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone https://github.com/VOTRE_NOM/VOTRE_REPO.git
-    cd VOTRE_REPO
+    git clone [https://github.com/UtmostMaker/projet-datamining_insertion_master]
+    cd projet-datamining_insertion_master
     ```
 2.  **Créer un environnement virtuel :**
     ```bash
