@@ -4,7 +4,6 @@
 
 Ce projet vise à analyser en profondeur les dynamiques d'insertion professionnelle des titulaires de Master en France, en transformant des données brutes en un outil d'aide à la décision interactif.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](LIEN_VERS_VOTRE_APP_STREAMLIT)  <!-- Mettez ici le lien si vous déployez l'app -->
 
 ## 🎯 Objectifs du Projet
 
@@ -73,6 +72,6 @@ Notre travail a rigoureusement suivi la méthodologie **CRISP-DM (Cross-Industry
 
 ## 👥 Auteurs
 
-- Prénom NOM 1
-- Prénom NOM 2
-- Prénom NOM 3
+- Anaïs Deligny
+- Raoul Fossua Tindo
+- Brice
